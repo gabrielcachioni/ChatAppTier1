@@ -1,0 +1,15 @@
+C:\Users\gcachioni\Documents\Visual Studio 2017\Projects\ChatAppTier1\ChatAppTier1\bin\Debug\ChatAppTier1.exe.config
+C:\Users\gcachioni\Documents\Visual Studio 2017\Projects\ChatAppTier1\ChatAppTier1\bin\Debug\ChatAppTier1.exe
+C:\Users\gcachioni\Documents\Visual Studio 2017\Projects\ChatAppTier1\ChatAppTier1\bin\Debug\ChatAppTier1.pdb
+C:\Users\gcachioni\Documents\Visual Studio 2017\Projects\ChatAppTier1\ChatAppTier1\bin\Debug\ChatAppTier1.xml
+C:\Users\gcachioni\Documents\Visual Studio 2017\Projects\ChatAppTier1\ChatAppTier1\bin\Debug\ChatAppTier1.exe.CodeAnalysisLog.xml
+C:\Users\gcachioni\Documents\Visual Studio 2017\Projects\ChatAppTier1\ChatAppTier1\bin\Debug\ChatAppTier1.exe.lastcodeanalysissucceeded
+C:\Users\gcachioni\Documents\Visual Studio 2017\Projects\ChatAppTier1\ChatAppTier1\obj\Debug\ChatAppTier1.Form1.resources
+C:\Users\gcachioni\Documents\Visual Studio 2017\Projects\ChatAppTier1\ChatAppTier1\obj\Debug\ChatAppTier1.Resources.resources
+C:\Users\gcachioni\Documents\Visual Studio 2017\Projects\ChatAppTier1\ChatAppTier1\obj\Debug\ChatAppTier1.T2Tool.resources
+C:\Users\gcachioni\Documents\Visual Studio 2017\Projects\ChatAppTier1\ChatAppTier1\obj\Debug\ChatAppTier1.vbproj.GenerateResource.cache
+C:\Users\gcachioni\Documents\Visual Studio 2017\Projects\ChatAppTier1\ChatAppTier1\obj\Debug\ChatAppTier1.vbproj.CoreCompileInputs.cache
+C:\Users\gcachioni\Documents\Visual Studio 2017\Projects\ChatAppTier1\ChatAppTier1\obj\Debug\ChatAppTier1.exe
+C:\Users\gcachioni\Documents\Visual Studio 2017\Projects\ChatAppTier1\ChatAppTier1\obj\Debug\ChatAppTier1.xml
+C:\Users\gcachioni\Documents\Visual Studio 2017\Projects\ChatAppTier1\ChatAppTier1\obj\Debug\ChatAppTier1.pdb
+C:\Users\gcachioni\Documents\Visual Studio 2017\Projects\ChatAppTier1\ChatAppTier1\obj\Debug\ChatAppTier1.vbprojAssemblyReference.cache
